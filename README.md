@@ -1,5 +1,5 @@
 # Europe-Travel-Website-html-css-js
-A website that allows to see travel information.
+Our team of seasoned travel professionals has decades of experience crafting adventures across the globe. We have the insider knowledge to unlock hidden gems and craft itineraries that avoid the crowds.
 
 ## Steps
 1.This project consisted in cloning a public [github 
